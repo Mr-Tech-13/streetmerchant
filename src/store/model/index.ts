@@ -93,6 +93,13 @@ import {JohnLewis} from './johnlewis';
 import {Kabum} from './kabum';
 import {KomplettNO} from './komplett-no';
 import {LandmarkComputers} from './lmc';
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+import {LDLCItaly} from './ldlc-italy';
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 import {Mediamarkt} from './mediamarkt';
 import {MediamarktAt} from './mediamarkt-at';
 import {Medimax} from './medimax';
@@ -113,8 +120,17 @@ import {NeweggSg} from './newegg-sg';
 import {NoelLeeming} from './noelleeming';
 import {Notebooksbilliger} from './notebooksbilliger';
 import {Novatech} from './novatech';
+<<<<<<< Updated upstream
 import { NovoAtalho } from './novoatalho';
 import { NvidiaEN } from './nvidia-en';
+=======
+<<<<<<< Updated upstream
+import {NovoAtalho} from './novoatalho';
+=======
+import { NovoAtalho } from './novoatalho';
+import { NvidiaEN } from './nvidia-en';
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 import {NvidiaDE} from './nvidia-de';
 import {NvidiaES} from './nvidia-es';
 import {NvidiaFR} from './nvidia-fr';
@@ -154,6 +170,13 @@ import {TescoIE} from './tesco-ie';
 import {TheWarehouse} from './thewarehouse';
 import {TopAchat} from './topachat';
 import {ToysRUs} from './toysrus';
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+import {Ubiquiti} from './ubiquiti';
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 import {Umart} from './umart';
 import {Unieuro} from './unieuro';
 import {Very} from './very';
@@ -263,6 +286,13 @@ export const storeList = new Map([
   [Kabum.name, Kabum],
   [KomplettNO.name, KomplettNO],
   [LandmarkComputers.name, LandmarkComputers],
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+  [LDLCItaly.name, LDLCItaly],
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   [Mediamarkt.name, Mediamarkt],
   [MediamarktAt.name, MediamarktAt],
   [Medimax.name, Medimax],
@@ -288,7 +318,14 @@ export const storeList = new Map([
   [Notebooksbilliger.name, Notebooksbilliger],
   [Novatech.name, Novatech],
   [NovoAtalho.name, NovoAtalho],
+<<<<<<< Updated upstream
   [NvidiaEN.name, NvidiaEN],
+=======
+<<<<<<< Updated upstream
+=======
+  [NvidiaEN.name, NvidiaEN],
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   [NvidiaDE.name, NvidiaDE],
   [NvidiaES.name, NvidiaES],
   [NvidiaFR.name, NvidiaFR],
@@ -328,6 +365,13 @@ export const storeList = new Map([
   [TopAchat.name, TopAchat],
   [ToysRUs.name, ToysRUs],
   [Umart.name, Umart],
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+  [Ubiquiti.name, Ubiquiti],
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   [Unieuro.name, Unieuro],
   [UltimaInformatica.name, UltimaInformatica],
   [Very.name, Very],

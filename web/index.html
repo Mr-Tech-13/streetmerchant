@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>streetmerchant control</title>
+<<<<<<< Updated upstream
 		<style>
 			body {
 				background-color: #222;
@@ -17,6 +18,8 @@
 				background-color: #444;
 			}
 		</style>
+=======
+>>>>>>> Stashed changes
 		<script type="text/javascript">
 			let config;
 			let brands;
@@ -150,6 +153,7 @@
 
 				await loadScreenshots();
 			}
+<<<<<<< Updated upstream
 
 			function selectAll(element, columnId) {
 				const list = document.querySelectorAll("#"+columnId+" input");
@@ -161,15 +165,24 @@
 				}
 			}
 
+=======
+>>>>>>> Stashed changes
 		</script>
 	</head>
 	<body onload="loadInitial();">
 		<table>
 			<tr>
+<<<<<<< Updated upstream
 				<th onclick="selectAll(this, 'storeList');">Stores</th>
 				<th onclick="selectAll(this, 'brandList');">Brands</th>
 				<th onclick="selectAll(this, 'seriesList');">Series</th>
 				<th onclick="selectAll(this, 'modelList');">Models</th>
+=======
+				<th>Stores</th>
+				<th>Brands</th>
+				<th>Series</th>
+				<th>Models</th>
+>>>>>>> Stashed changes
 			</tr>
 			<tr>
 				<td valign="top" id="storeList"></td>

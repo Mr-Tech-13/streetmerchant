@@ -5,7 +5,11 @@ You do not need any computer skills, smarts, or anything of that nature. You are
 ## Prerequisites
 
 - [git](https://git-scm.com/)
+<<<<<<< Updated upstream
 - Either [Node.js 16 (LTS)](https://nodejs.org/en/) or [Docker](https://docs.docker.com/get-docker/) (advanced users)
+=======
+- Either [Node.js 15](https://nodejs.org/en/) or [Docker (1.13.0+)](https://docs.docker.com/get-docker/) (advanced users)
+>>>>>>> Stashed changes
 
 ## Using Node.js
 
@@ -103,6 +107,7 @@ docker-compose down
     ```
 
     Replace `<WEB_PORT>` with the value you gave in your `dotenv`.
+<<<<<<< Updated upstream
     
 ### Developing in Heroku
 
@@ -189,3 +194,5 @@ You should see this:
 6. Now you're essentially done!
     1. I recommend you click on the `more` dropdown and click `logs` to make sure everything is running smoothly.
     2. If you set up notifications, you will be notified when you criterias are met(3060 in stock, etc.), otherwise you'll have to keep your eyes on the `logs` tab
+=======
+>>>>>>> Stashed changes

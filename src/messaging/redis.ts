@@ -29,6 +29,7 @@ export function updateRedis(link: Link, store: Store) {
         updatedAt: new Date().toUTCString(),
       };
 
+<<<<<<< Updated upstream
       const message = JSON.stringify(value);
       client.set(key, message, (error, success) => {
         if (error) {
@@ -45,6 +46,15 @@ export function updateRedis(link: Link, store: Store) {
           logger.info('✔ redis message published');
         }
       });
+=======
+      const redisUpdated = client.set(key, JSON.stringify(value));
+
+      if (redisUpdated) {
+        logger.info('✔ redis updated');
+      } else {
+        logger.error(`✖ couldn't update redis for key (${key})`);
+      }
+>>>>>>> Stashed changes
     }
   } catch (error: unknown) {
     logger.error("✖ couldn't update redis", error);

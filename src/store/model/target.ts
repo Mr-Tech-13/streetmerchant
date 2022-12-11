@@ -22,7 +22,15 @@ export const Target: Store = {
       brand: 'sony',
       model: 'ps5 console',
       series: 'sonyps5c',
+<<<<<<< Updated upstream
       url: 'https://www.target.com/p/playstation-5-console/-/A-81114595',
+=======
+<<<<<<< Updated upstream
+      url: 'https://www.target.com/p/playstation-5-console/-/A-87716467',
+=======
+      url: 'https://www.target.com/p/playstation-5-console/-/A-81114595',
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     },
     {
       brand: 'sony',
