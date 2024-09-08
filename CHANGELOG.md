@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.10.1](https://github.com/Mr-Tech-13/streetmerchant/compare/v3.10.0...v3.10.1) (2024-09-08)
+
+
+### Miscellaneous
+
+* **deps-dev:** bump webpack ([d6e0c95](https://github.com/Mr-Tech-13/streetmerchant/commit/d6e0c954fea9445bc06fad67bca3202f5250a003))
+* **deps:** bump braces in the npm_and_yarn group across 1 directory ([7bd91e3](https://github.com/Mr-Tech-13/streetmerchant/commit/7bd91e3a61366b33d087b7548bf540480c5da318))
+* **deps:** bump follow-redirects ([81df6ff](https://github.com/Mr-Tech-13/streetmerchant/commit/81df6ff255f1b005ff098b6db508d8a805097076))
+* **deps:** bump nodemailer ([4e1f98b](https://github.com/Mr-Tech-13/streetmerchant/commit/4e1f98b5a48de7cb22b8bd03c3c87e7e1cab5742))
+* **deps:** bump the npm_and_yarn group across 1 directory with 2 updates ([3e8d58c](https://github.com/Mr-Tech-13/streetmerchant/commit/3e8d58ccb9793254dad376a0d7103d7b69fd5b94))
+* **deps:** bump the npm_and_yarn group across 1 directory with 2 updates ([4c48cd7](https://github.com/Mr-Tech-13/streetmerchant/commit/4c48cd72cfeb18f0084451e3621621f1b7c067cd))
+* **deps:** bump the npm_and_yarn group across 1 directory with 20 updates ([7e198ef](https://github.com/Mr-Tech-13/streetmerchant/commit/7e198ef011e80c24b631f23ac337243e073fcb02))
+* **deps:** bump ws in the npm_and_yarn group across 1 directory ([dd63603](https://github.com/Mr-Tech-13/streetmerchant/commit/dd6360375b28648566a3b552d70b2b22f09a9370))
+
 ## [3.10.0](https://github.com/Mr-Tech-13/streetmerchant/compare/v3.9.0...v3.10.0) (2024-09-08)
 
 
